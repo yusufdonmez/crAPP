@@ -1,0 +1,63 @@
+{
+    "appVersion":"Version 1.0.1",
+    "email":"Email",
+    "password": "Password",
+    "browseCars":"Browse Cars",
+    "allRightsText": "All rights reserved 2019 Harmony ICT",
+    "loading":"Loading...",
+    "authenticating":"Authenticating...",
+    "yes":"Yes",
+    "no":"No",
+    "joined":"Joined",
+    "tabs" : {
+        "search":"Search",
+        "trips":"Trips",
+        "messages":"Messages",
+        "host":"Host",
+        "profile":"Profile"
+    },
+    "homescreen": {
+        "firstCommercial":"Way better than",
+        "secondCommercial":"a rental car",
+        "search":"Enter city, airport or address",
+        "youMightLike":"You Might Like",
+        "listYourCar":"List your car",
+        "recentlyViewed":"Recently Viewed",
+        "commercialHeader":"The car that pays for itself.",
+        "commercialSubHeader":"Share your car, earn extra cash. List it in just 10 minutes."
+    },
+    "login":{
+        "email":"Email",
+        "password": "Password",
+        "loginBtn":"Sign In",
+        "signUp":"Sign Up",
+        "authenticating":"Authenticating..."
+    },
+    "alerts": {
+        "profileSavedAlertHeader":"Profile",
+        "profileSavedAlertSubHeader":"Your profile updated successfully.",
+        "wrongCurrentPasswordAlertHeader":"Wrong Password!!!",
+        "wrongCurrentPasswordAlertSubHeader":"Your current password wrong. Please try again.",
+        "signupCompletedHeader":"Sign Up Completed",
+        "signupCompletedSubHeader":"Congratulations! Sign up completed you can login with this email now.",
+        "closeApplicationHeader":"Close Application",
+        "closeApplicationSubHeader":"Do you want to close application ?",
+        "closeAppAccept":"Close App",
+        "closeAppCancel":"Cancel",
+        "emailNotExistsAlertHeader":"Email not exists",
+        "emailNotExistsAlertSubHeader":"This email not exists in the system please sign up.",
+        "emailExistsAlertHeader":"Email exists",
+        "emailExistsAlertSubHeader":"This email exists in the system please sign in. If you forget password please click forget password.",
+        "emailEmptyHeader":"Email empty",
+        "emailEmptySubHeader":"Plase fill email than press forget password.",
+        "emailSentHeader":"Email Sent",
+        "emailSentSubHeader":"Email sent to :",
+        "needToSignInHeader":"Sign In Required",
+        "needToSignInSubHeader":"You need to sign in to see more jobs and features.",
+        "termsAndServiceHeader":"Terms of service",
+        "termsAndServiceSubHeader":"Please accept terms of service",
+        "logoutFromSystemHeader":"",
+        "logoutFromSystemSubHeader":"Are you sure you want to log out ?",
+        "okey":"OK"
+    }
+}

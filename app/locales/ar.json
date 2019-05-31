@@ -1,0 +1,15 @@
+{
+    "appVersion":"Version 1.0.1",
+    "email":"Email",
+    "password": "Password",
+    "browseCars":"Browse Cars",
+    "allRightsText": "All rights reserved 2019 Harmony ICT",
+    "loading":"Loading...",
+    "authenticating":"Authenticating...",
+    "login":{
+        "email":"البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "loginBtn":"إنشاء حساب جديد",
+        "signUp":" تسجيل دخول"
+    }
+}
